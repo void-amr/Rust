@@ -1,5 +1,5 @@
 /** 
- *  @Author -> AryanRanjane(ranjanearyan14@gmail.com) \
+ *  @Author -> AryanRanjane(ranjanearyan14@gmail.com) 
  *  @Brief -> Demonstration of type inference in rust 
  *  @Date -> 30/6/24
  */ 

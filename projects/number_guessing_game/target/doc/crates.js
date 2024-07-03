@@ -1,0 +1,1 @@
+window.ALL_CRATES = ["number_guessing_game"];

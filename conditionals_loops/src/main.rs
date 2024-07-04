@@ -10,7 +10,7 @@ pub fn main() {
     /* Main function */
     let mut n:String = String::new();
     println!("Enter a string "); 
-    io::stdin().read_line(&mut n).expect("No charchters allowed");
+    io::stdin().read_line(&mut n).expect("*!Invalid");
     let ans = get_first_name(n); 
     println!("{}",ans);
 }
